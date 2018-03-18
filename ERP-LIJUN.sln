@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP-LIJUN", "ERP-LIJUN\ERP-LIJUN.csproj", "{2BF6CE94-0724-47DA-B8DD-9FAF2638753B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BF6CE94-0724-47DA-B8DD-9FAF2638753B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF6CE94-0724-47DA-B8DD-9FAF2638753B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF6CE94-0724-47DA-B8DD-9FAF2638753B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF6CE94-0724-47DA-B8DD-9FAF2638753B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A6D3FAC-4AEB-48CD-9632-404E85866839}
+	EndGlobalSection
+EndGlobal

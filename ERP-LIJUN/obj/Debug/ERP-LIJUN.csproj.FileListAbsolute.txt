@@ -1,0 +1,10 @@
+c:\users\李军\source\repos\ERP-LIJUN\ERP-LIJUN\bin\Debug\ERP-LIJUN.exe
+c:\users\李军\source\repos\ERP-LIJUN\ERP-LIJUN\bin\Debug\ERP-LIJUN.pdb
+c:\users\李军\source\repos\ERP-LIJUN\ERP-LIJUN\obj\Debug\ERP-LIJUN.csprojResolveAssemblyReference.cache
+c:\users\李军\source\repos\ERP-LIJUN\ERP-LIJUN\obj\Debug\ERP_LIJUN.FormLogin.resources
+c:\users\李军\source\repos\ERP-LIJUN\ERP-LIJUN\obj\Debug\ERP_LIJUN.Properties.Resources.resources
+c:\users\李军\source\repos\ERP-LIJUN\ERP-LIJUN\obj\Debug\ERP-LIJUN.csproj.GenerateResource.cache
+c:\users\李军\source\repos\ERP-LIJUN\ERP-LIJUN\obj\Debug\ERP-LIJUN.csproj.CoreCompileInputs.cache
+c:\users\李军\source\repos\ERP-LIJUN\ERP-LIJUN\obj\Debug\ERP-LIJUN.exe
+c:\users\李军\source\repos\ERP-LIJUN\ERP-LIJUN\obj\Debug\ERP-LIJUN.pdb
+C:\Users\李军\source\repos\ERP-LIJUN\ERP-LIJUN\obj\Debug\ERP_LIJUN.FormMain.resources
